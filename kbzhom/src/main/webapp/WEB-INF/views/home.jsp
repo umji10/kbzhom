@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Master</title>
+	<title>Master2</title>
 </head>
 <body>
 <h1>
